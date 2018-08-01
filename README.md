@@ -10,5 +10,8 @@ A Comprehensive Study on Deep Learning Approaches for Bengali Handwritten Digit 
 * Random Forest
 * Unsupervised Representation Learning with DCGAN
 
+## Codes
+* DeepNumtaCNN.ipynb - Custom Convolutional network
+
 ## Dataset
 NumtaDB - https://www.kaggle.com/BengaliAI/numta
